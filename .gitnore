@@ -1,0 +1,22 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# Docker and PostgreSQL volumes
+pgdata/
+pgadmin_data/
+
+# Logs
+*.log
+logs/
